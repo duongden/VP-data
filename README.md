@@ -2,6 +2,7 @@
 
 1. Sửa lỗi chính tả:
 ```
+cỡi ngựa => cưỡi ngựa
 dưۛi => dưới
 thuwsc => thức
 dào dạc => dào dạt
