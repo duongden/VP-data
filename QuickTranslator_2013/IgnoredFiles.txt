@@ -1,0 +1,17 @@
+﻿List.shtml
+List.html
+List.htm
+Index.shtml
+Index.html
+Index.htm
+*.zip
+*.rar
+*.7z
+*.doc
+*.log
+*.gif
+*.jpg
+*.png
+*.xls
+*.ppt
+*.pps

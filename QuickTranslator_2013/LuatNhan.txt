@@ -1,0 +1,72 @@
+高{0}米=cao {0} mét
+长{0}米=dài {0} mét
+宽{0}米=rộng {0} mét
+看着{0}米高=nhìn xem {0} mét cao
+层高{0}米=tầng cao {0} mét
+面积{0}平=diện tích {0} mét vuông
+面积{0}平方公里=diện tích {0} km vuông
+有个{0}米=có cái {0} mét
+直径{0}米=đường kính {0} mét
+于{0}年前=tại {0} năm trước
+怀胎{0}月=mang thai {0} tháng
+早晨{0}点半钟左右多=khoảng hơn {0} rưỡi sáng
+晚上{0}点半钟左右多=khoảng hơn {0} rưỡi đêm
+下午{0}点半左右多=khoảng hơn {0} rưỡi chiều
+下午{0}点半钟左右=khoảng {0} rưỡi chiều
+下午{0}点钟左右多=khoảng hơn {0} giờ chiều
+早晨{0}点半左右多=khoảng hơn {0} giờ rưỡi sáng
+早晨{0}点半钟左右=khoảng {0} giờ rưỡi sáng
+早晨{0}点钟左右多=khoảng hơn {0} giờ sáng
+晚上{0}点半左右多=khoảng hơn {0} giờ rưỡi đêm
+晚上{0}点半钟左右=khoảng {0} giờ rưỡi đêm
+晚上{0}点钟左右多=khoảng hơn {0} giờ đêm
+在{0}米=tại {0} mét
+位于{0}米=nằm ở {0} mét
+面积三平方公里=diện tích {0} kilomet vuông
+一个{0}米深=một cái sâu {0} mét
+这是辆{0}米长=đây là cái {0} mét dài
+长到了{0}米=dài đến {0} mét
+海拔{0}米=cao {0} mét so với mực nước biển
+在{0}层=tại tầng {0}
+她的{0}中=trong {0} của nàng
+出乎{0}的意料=ngoài dự đoán của {0}
+出乎{0}的预料=ngoài dự đoán của {0}
+出乎了{0}的预料=ngoài dự đoán của {0}
+出乎{0}意料之外=ngoài dự đoán của {0}
+出乎{0}的意料之外=ngoài dự đoán của {0}
+在{0}的视线之中=trong tầm mắt của {0}
+往{0}的{0}室走去=đi về phòng {0} của {0}
+往门{0}的门口走去=đi về phía cửa {0}
+最宽的有{0}米=chiều rộng nhất có {0} mét
+会跟{0}好好商量=sẽ thương lượng với {0}
+要是{0}年前=nếu là {0} năm trước
+在这里生活了{0}年=ở đây sinh hoạt {0} năm
+也不会让{0}讨厌=cũng không làm cho người ta khó chịu
+
+那大手扶着{0}的腰=bàn tay to kia ôm {0} eo
+手赶紧搂住了{0}的脖子=tay vội vàng ôm cổ của {0}
+也会暴露{0}菜的事实=cũng sẽ bại lộ {0} thật sự gà
+但是{0}要是输得特别惨=nhưng nếu {0} thua thật sự thảm hại
+放开{0}的手腕=buông ra cổ tay của {0}
+也不怕{0}笑话=cũng không sợ {0} cười nhạo
+盯着{0}看=nhìn chằm chằm vào {0}
+活了{0}多年=sống hơn {0} năm
+嫌{0}笑话他=ngại {0} cười nhạo hắn
+嫌{0}笑话她=ngại {0} cười nhạo nàng
+已大旱{0}月有余=đã hạn hán nặng hơn {0} tháng
+可如今{0}月有余=nhưng bây giờ đã hơn {0} tháng
+不愿意与{0}接触=không muốn tiếp xúc với {0}
+见{0}还不开心=thấy {0} còn chưa vui
+蹲在{0}的床榻边上=ngồi ở bên cạnh giường của {0}
+
+又{0}又{0}=lại {0} lại {0}
+站在{0}边上=đứng bên cạnh {0}
+都会报应到{0}身上去=đều đã báo ứng đến trên người {0} đi
+
+
+
+
+
+
+
+
