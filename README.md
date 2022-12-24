@@ -1,6 +1,13 @@
 # VP-data
 
-1. Sửa lỗi chính tả
+1. Sửa lỗi chính tả:
+    >dưۛi => dưới
+    >thuwsc => thức
+    >dào dạc => dào dạt
+    >nhướng => nhướn
+    >Hoa Viên => hoa viên
+    >lờinào => lời nào
+    >tầm thẻ vàng => tấm thẻ vàng
 
 2. Tách Name, danh xưng, tên gọi... ra file riêng
 
