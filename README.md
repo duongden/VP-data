@@ -1,4 +1,5 @@
 # VP-data
 
-Sửa lỗi chính tả
-Tách Name, danh xưng, tên gọi... ra file riêng
+1. Sửa lỗi chính tả
+
+2. Tách Name, danh xưng, tên gọi... ra file riêng
